@@ -6,7 +6,7 @@
 
         <div class="three columns">
 
-            <h1>Dagbladet</h1>
+            <h1>Laravel</h1>
 
             <div id="login" class="login">
                 {{ Form::open() }}

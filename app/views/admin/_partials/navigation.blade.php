@@ -13,11 +13,6 @@
             <section>
                 <ul class="left">
                     <li>{{ HTML::link('admin/player/index', 'Player') }}</li>
-                    <li>{{ HTML::link('admin/player/index', 'Videos') }}</li>
-                    <li>{{ HTML::link('admin/player/index', 'Live') }}</li>
-                    <li>{{ HTML::link('admin/player/index', 'Feeds') }}</li>
-                    <li>{{ HTML::link('admin/player/index', 'Series') }}</li>
-                    <li>{{ HTML::link('admin/player/index', 'Statistics') }}</li>
                 </ul>
 
                 <ul class="right">
