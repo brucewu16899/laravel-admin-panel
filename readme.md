@@ -1,1 +1,1 @@
-## Laravel 4 tutorial site
+## Laravel 4 admin panel implementation
